@@ -1,0 +1,35 @@
+name: daily digest
+
+on:
+  schedule:
+    - cron: "17 13 * * *" # 13:17 UTC, after CISA's usual US-morning updates
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build digest
+        run: python digest.py
+
+      - name: Commit if changed
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing new."
+            exit 0
+          fi
+          # Authored as the repo owner so it counts toward the contribution graph.
+          git config user.name "gregpierre"
+          git config user.email "241638045+gregpierre@users.noreply.github.com"
+          git commit -m "KEV digest $(date -u +%F)"
+          git push
