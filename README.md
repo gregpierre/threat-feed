@@ -11,11 +11,12 @@ updates the table below. Days with nothing new produce no commit.
 ## Latest
 
 <!-- latest:start -->
-**2026-10-16**: 1 new, full digest in [`digests/2026/2026-10-16.md`](digests/2026/2026-10-16.md)
+**2026-10-17**: 2 new, full digest in [`digests/2026/2026-10-17.md`](digests/2026/2026-10-17.md)
 
 | CVE | Vendor / product | EPSS |
 |---|---|---|
-| CVE-2026-21589 | Atlassian Multiple Products | 2.8% (p86) |
+| CVE-2026-102764 | BeyondTrust Remote Support | 0.6% (p48) |
+| CVE-2025-61624 | Fortinet Multiple Products | 0.6% (p47) |
 <!-- latest:end -->
 
 ## How it works
