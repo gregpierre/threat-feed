@@ -11,12 +11,16 @@ updates the table below. Days with nothing new produce no commit.
 ## Latest
 
 <!-- latest:start -->
-**2026-10-17**: 2 new, full digest in [`digests/2026/2026-10-17.md`](digests/2026/2026-10-17.md)
+**2026-10-21**: 6 new, full digest in [`digests/2026/2026-10-21.md`](digests/2026/2026-10-21.md)
 
 | CVE | Vendor / product | EPSS |
 |---|---|---|
-| CVE-2026-102764 | BeyondTrust Remote Support | 0.6% (p48) |
-| CVE-2025-61624 | Fortinet Multiple Products | 0.6% (p47) |
+| CVE-2026-106931 | EG Secure Solutions SiteGuard Server Edition | 1.4% (p72) |
+| CVE-2026-96656 | Plex Media Server | 0.8% (p55) |
+| CVE-2026-96654 | Plex Media Server | 0.4% (p36) |
+| CVE-2026-96652 | Plex Media Server | 0.4% (p35) |
+| CVE-2026-96655 | Plex Media Server | 0.4% (p35) |
+| CVE-2026-110936 | Siemens Software Center | 0.3% (p17) |
 <!-- latest:end -->
 
 ## How it works
