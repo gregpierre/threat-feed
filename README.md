@@ -11,11 +11,11 @@ updates the table below. Days with nothing new produce no commit.
 ## Latest
 
 <!-- latest:start -->
-**2026-10-23**: 1 new, full digest in [`digests/2026/2026-10-23.md`](digests/2026/2026-10-23.md)
+**2026-10-24**: 1 new, full digest in [`digests/2026/2026-10-24.md`](digests/2026/2026-10-24.md)
 
 | CVE | Vendor / product | EPSS |
 |---|---|---|
-| CVE-2026-114625 | Arista VeloCloud Orchestrator | 0.6% (p46) |
+| CVE-2026-110447 | Collabora Collabora Online – Built-in CODE Server | 2.3% (p83) |
 <!-- latest:end -->
 
 ## How it works
