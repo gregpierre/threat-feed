@@ -11,11 +11,12 @@ updates the table below. Days with nothing new produce no commit.
 ## Latest
 
 <!-- latest:start -->
-**2026-10-24**: 1 new, full digest in [`digests/2026/2026-10-24.md`](digests/2026/2026-10-24.md)
+**2026-10-27**: 2 new, full digest in [`digests/2026/2026-10-27.md`](digests/2026/2026-10-27.md)
 
 | CVE | Vendor / product | EPSS |
 |---|---|---|
-| CVE-2026-110447 | Collabora Collabora Online – Built-in CODE Server | 2.3% (p83) |
+| CVE-2026-109618 | PHP Group PHP | 100.0% (p100) |
+| CVE-2026-109619 | PHP Group PHP | 100.0% (p100) |
 <!-- latest:end -->
 
 ## How it works
