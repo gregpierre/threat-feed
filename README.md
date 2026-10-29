@@ -11,12 +11,12 @@ updates the table below. Days with nothing new produce no commit.
 ## Latest
 
 <!-- latest:start -->
-**2026-10-28**: 2 new, full digest in [`digests/2026/2026-10-28.md`](digests/2026/2026-10-28.md)
+**2026-10-29**: 2 new, full digest in [`digests/2026/2026-10-29.md`](digests/2026/2026-10-29.md)
 
 | CVE | Vendor / product | EPSS |
 |---|---|---|
-| CVE-2026-111497 | Google Brotli | 88.0% (p100) |
-| CVE-2026-48356 | Adobe Commerce and Magento | 59.1% (p99) |
+| CVE-2026-46300 | Linux Kernel | 15.7% (p97) |
+| CVE-2026-41709 | Broadcom VMware ESX | 0.8% (p55) |
 <!-- latest:end -->
 
 ## How it works
