@@ -11,12 +11,14 @@ updates the table below. Days with nothing new produce no commit.
 ## Latest
 
 <!-- latest:start -->
-**2026-10-29**: 2 new, full digest in [`digests/2026/2026-10-29.md`](digests/2026/2026-10-29.md)
+**2026-10-30**: 4 new, full digest in [`digests/2026/2026-10-30.md`](digests/2026/2026-10-30.md)
 
 | CVE | Vendor / product | EPSS |
 |---|---|---|
-| CVE-2026-46300 | Linux Kernel | 15.7% (p97) |
-| CVE-2026-41709 | Broadcom VMware ESX | 0.8% (p55) |
+| CVE-2026-97229 | GitLab Community Edition and Enterprise Edition | 26.6% (p98) |
+| CVE-2026-76418 | Cisco Secure Firewall ASA Software and Cisco Secure FTD Software | 0.9% (p60) |
+| CVE-2026-111357 | Ivanti Connect Secure | 0.3% (p25) |
+| CVE-2026-118527 | Ivanti Connect Secure | n/a |
 <!-- latest:end -->
 
 ## How it works
