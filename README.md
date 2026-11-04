@@ -11,14 +11,12 @@ updates the table below. Days with nothing new produce no commit.
 ## Latest
 
 <!-- latest:start -->
-**2026-10-30**: 4 new, full digest in [`digests/2026/2026-10-30.md`](digests/2026/2026-10-30.md)
+**2026-11-04**: 2 new, full digest in [`digests/2026/2026-11-04.md`](digests/2026/2026-11-04.md)
 
 | CVE | Vendor / product | EPSS |
 |---|---|---|
-| CVE-2026-97229 | GitLab Community Edition and Enterprise Edition | 26.6% (p98) |
-| CVE-2026-76418 | Cisco Secure Firewall ASA Software and Cisco Secure FTD Software | 0.9% (p60) |
-| CVE-2026-111357 | Ivanti Connect Secure | 0.3% (p25) |
-| CVE-2026-118527 | Ivanti Connect Secure | n/a |
+| CVE-2026-119977 | WordPress WordPress Core | 1.0% (p64) |
+| CVE-2024-27834 | Apple Multiple Products | 0.6% (p49) |
 <!-- latest:end -->
 
 ## How it works
