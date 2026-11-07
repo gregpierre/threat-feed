@@ -11,12 +11,11 @@ updates the table below. Days with nothing new produce no commit.
 ## Latest
 
 <!-- latest:start -->
-**2026-11-04**: 2 new, full digest in [`digests/2026/2026-11-04.md`](digests/2026/2026-11-04.md)
+**2026-11-07**: 1 new, full digest in [`digests/2026/2026-11-07.md`](digests/2026/2026-11-07.md)
 
 | CVE | Vendor / product | EPSS |
 |---|---|---|
-| CVE-2026-119977 | WordPress WordPress Core | 1.0% (p64) |
-| CVE-2024-27834 | Apple Multiple Products | 0.6% (p49) |
+| CVE-2026-19868 | SonicWall SonicOS SSLVPN | 0.6% (p50) |
 <!-- latest:end -->
 
 ## How it works
