@@ -11,11 +11,14 @@ updates the table below. Days with nothing new produce no commit.
 ## Latest
 
 <!-- latest:start -->
-**2026-11-07**: 1 new, full digest in [`digests/2026/2026-11-07.md`](digests/2026/2026-11-07.md)
+**2026-11-09**: 4 new, full digest in [`digests/2026/2026-11-09.md`](digests/2026/2026-11-09.md)
 
 | CVE | Vendor / product | EPSS |
 |---|---|---|
-| CVE-2026-19868 | SonicWall SonicOS SSLVPN | 0.6% (p50) |
+| CVE-2026-116779 | SignalWire FreeSwitch | 1.3% (p71) |
+| CVE-2026-123158 | OpenBSD OpenSSH | 1.0% (p63) |
+| CVE-2026-123218 | IBM Aspera Faspex | 0.4% (p34) |
+| CVE-2026-102895 | GPUStack GPUStack | 0.3% (p26) |
 <!-- latest:end -->
 
 ## How it works
