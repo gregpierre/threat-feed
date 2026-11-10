@@ -11,14 +11,16 @@ updates the table below. Days with nothing new produce no commit.
 ## Latest
 
 <!-- latest:start -->
-**2026-11-09**: 4 new, full digest in [`digests/2026/2026-11-09.md`](digests/2026/2026-11-09.md)
+**2026-11-10**: 6 new, full digest in [`digests/2026/2026-11-10.md`](digests/2026/2026-11-10.md)
 
 | CVE | Vendor / product | EPSS |
 |---|---|---|
-| CVE-2026-116779 | SignalWire FreeSwitch | 1.3% (p71) |
-| CVE-2026-123158 | OpenBSD OpenSSH | 1.0% (p63) |
-| CVE-2026-123218 | IBM Aspera Faspex | 0.4% (p34) |
-| CVE-2026-102895 | GPUStack GPUStack | 0.3% (p26) |
+| CVE-2026-116606 | Barracuda Networks Barracuda Email Security Gateway (ESG) | 1.6% (p76) |
+| CVE-2026-111560 | Barracuda Networks Multiple Products | 1.1% (p65) |
+| CVE-2026-20320 | Cisco BroadWorks | 0.4% (p33) |
+| CVE-2026-111793 | Openwave Messaging Limited Webtop Media Transcoder | 0.3% (p20) |
+| CVE-2026-124194 | Microsoft Office | n/a |
+| CVE-2026-125350 | Google Chromium | n/a |
 <!-- latest:end -->
 
 ## How it works
