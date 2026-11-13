@@ -11,16 +11,12 @@ updates the table below. Days with nothing new produce no commit.
 ## Latest
 
 <!-- latest:start -->
-**2026-11-10**: 6 new, full digest in [`digests/2026/2026-11-10.md`](digests/2026/2026-11-10.md)
+**2026-11-13**: 2 new, full digest in [`digests/2026/2026-11-13.md`](digests/2026/2026-11-13.md)
 
 | CVE | Vendor / product | EPSS |
 |---|---|---|
-| CVE-2026-116606 | Barracuda Networks Barracuda Email Security Gateway (ESG) | 1.6% (p76) |
-| CVE-2026-111560 | Barracuda Networks Multiple Products | 1.1% (p65) |
-| CVE-2026-20320 | Cisco BroadWorks | 0.4% (p33) |
-| CVE-2026-111793 | Openwave Messaging Limited Webtop Media Transcoder | 0.3% (p20) |
-| CVE-2026-124194 | Microsoft Office | n/a |
-| CVE-2026-125350 | Google Chromium | n/a |
+| CVE-2026-123039 | Check Point Multiple Products | 1.3% (p70) |
+| CVE-2026-114713 | UnrealIRCd UnrealIRCd | 0.3% (p23) |
 <!-- latest:end -->
 
 ## How it works
