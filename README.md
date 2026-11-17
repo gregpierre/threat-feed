@@ -11,12 +11,11 @@ updates the table below. Days with nothing new produce no commit.
 ## Latest
 
 <!-- latest:start -->
-**2026-11-13**: 2 new, full digest in [`digests/2026/2026-11-13.md`](digests/2026/2026-11-13.md)
+**2026-11-17**: 1 new, full digest in [`digests/2026/2026-11-17.md`](digests/2026/2026-11-17.md)
 
 | CVE | Vendor / product | EPSS |
 |---|---|---|
-| CVE-2026-123039 | Check Point Multiple Products | 1.3% (p70) |
-| CVE-2026-114713 | UnrealIRCd UnrealIRCd | 0.3% (p23) |
+| CVE-2026-115731 | Perforce Puppet Enterprise | 0.4% (p31) |
 <!-- latest:end -->
 
 ## How it works
