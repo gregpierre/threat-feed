@@ -11,11 +11,14 @@ updates the table below. Days with nothing new produce no commit.
 ## Latest
 
 <!-- latest:start -->
-**2026-11-17**: 1 new, full digest in [`digests/2026/2026-11-17.md`](digests/2026/2026-11-17.md)
+**2026-11-18**: 4 new, full digest in [`digests/2026/2026-11-18.md`](digests/2026/2026-11-18.md)
 
 | CVE | Vendor / product | EPSS |
 |---|---|---|
-| CVE-2026-115731 | Perforce Puppet Enterprise | 0.4% (p31) |
+| CVE-2026-40217 | BerriAI LiteLLM | 17.0% (p97) |
+| CVE-2026-90817 | Vanderbilt University Research Electronic Data Capture (REDCap) | 3.7% (p90) |
+| CVE-2024-10441 | Synology DiskStation Manager (DSM) | 1.3% (p70) |
+| CVE-2026-90436 | Apache Axis | 1.1% (p67) |
 <!-- latest:end -->
 
 ## How it works
