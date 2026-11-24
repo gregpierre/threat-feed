@@ -11,12 +11,13 @@ updates the table below. Days with nothing new produce no commit.
 ## Latest
 
 <!-- latest:start -->
-**2026-11-24**: 2 new, full digest in [`digests/2026/2026-11-24.md`](digests/2026/2026-11-24.md)
+**2026-11-24**: 3 new, full digest in [`digests/2026/2026-11-24.md`](digests/2026/2026-11-24.md)
 
 | CVE | Vendor / product | EPSS |
 |---|---|---|
-| CVE-2026-133968 | Project MONAI MONAI Label | 3.7% (p90) |
-| CVE-2026-134624 | N-able MailAssure | 0.4% (p30) |
+| CVE-2026-131914 | Idunno AntiCsrf | 0.6% (p50) |
+| CVE-2026-132224 | Optimizely Web Experimentation | 0.4% (p36) |
+| CVE-2026-132165 | Drupal Core | n/a |
 <!-- latest:end -->
 
 ## How it works
