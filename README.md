@@ -11,13 +11,20 @@ updates the table below. Days with nothing new produce no commit.
 ## Latest
 
 <!-- latest:start -->
-**2026-11-24**: 3 new, full digest in [`digests/2026/2026-11-24.md`](digests/2026/2026-11-24.md)
+**2026-11-25**: 10 new, full digest in [`digests/2026/2026-11-25.md`](digests/2026/2026-11-25.md)
 
 | CVE | Vendor / product | EPSS |
 |---|---|---|
-| CVE-2026-131914 | Idunno AntiCsrf | 0.6% (p50) |
-| CVE-2026-132224 | Optimizely Web Experimentation | 0.4% (p36) |
-| CVE-2026-132165 | Drupal Core | n/a |
+| CVE-2026-133323 | Mitel MiCollab | 2.5% (p86) |
+| CVE-2023-25915 | Danfoss AK-SM 800A Series | 1.4% (p73) |
+| CVE-2026-133469 | Vates Xen Orchestra | 1.1% (p65) |
+| CVE-2023-25914 | Danfoss AK-SM 800A Series | 1.1% (p65) |
+| CVE-2026-103406 | Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router | 0.9% (p56) |
+| CVE-2026-133303 | Mitel MiCollab | 0.5% (p37) |
+| CVE-2025-41450 | Danfoss AK-SM 800A Series | 0.5% (p37) |
+| CVE-2026-133324 | Mitel MiCollab | 0.4% (p27) |
+| CVE-2026-133311 | Mitel MiCollab | 0.4% (p25) |
+| CVE-2026-133275 | Mitel MiCollab | 0.3% (p17) |
 <!-- latest:end -->
 
 ## How it works
