@@ -11,20 +11,13 @@ updates the table below. Days with nothing new produce no commit.
 ## Latest
 
 <!-- latest:start -->
-**2026-11-25**: 10 new, full digest in [`digests/2026/2026-11-25.md`](digests/2026/2026-11-25.md)
+**2026-11-27**: 3 new, full digest in [`digests/2026/2026-11-27.md`](digests/2026/2026-11-27.md)
 
 | CVE | Vendor / product | EPSS |
 |---|---|---|
-| CVE-2026-133323 | Mitel MiCollab | 2.5% (p86) |
-| CVE-2023-25915 | Danfoss AK-SM 800A Series | 1.4% (p73) |
-| CVE-2026-133469 | Vates Xen Orchestra | 1.1% (p65) |
-| CVE-2023-25914 | Danfoss AK-SM 800A Series | 1.1% (p65) |
-| CVE-2026-103406 | Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router | 0.9% (p56) |
-| CVE-2026-133303 | Mitel MiCollab | 0.5% (p37) |
-| CVE-2025-41450 | Danfoss AK-SM 800A Series | 0.5% (p37) |
-| CVE-2026-133324 | Mitel MiCollab | 0.4% (p27) |
-| CVE-2026-133311 | Mitel MiCollab | 0.4% (p25) |
-| CVE-2026-133275 | Mitel MiCollab | 0.3% (p17) |
+| CVE-2026-136716 | Drupal Core | 1.2% (p68) |
+| CVE-2026-120705 | OSGeo GeoServer | n/a |
+| CVE-2026-129243 | OSGeo GeoServer | n/a |
 <!-- latest:end -->
 
 ## How it works
